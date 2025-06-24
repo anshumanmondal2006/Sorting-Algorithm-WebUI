@@ -14,15 +14,18 @@
 - Selection Sort
 - Insertion Sort
 - Quick Sort
+  
+### 💻 Available Coding Language Snippets
 
-### Available Coding Language Snippets:
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-| C   | C++ | Java | Python |
-| --- | --- | ---- | ------ |
 
 ---
 
-# FEATURES
+## FEATURES
 
 - Mutiple Sorting Visualization at once
 - Dynamically the element get changed
@@ -36,13 +39,13 @@
 - Access the code snippet for various sorting in 4 different programming language (_*SOURCE*_ : GeeksforGeek and Tutorialspoint)
 - Provide source to learn better and master this sorting Techniques (_*SOURCE*_ : GeeksforGeek)
 
-# ISSUE
+## ISSUE
 
 - Speed Slider not working in Bubble, Insertion and Selection Sort
 - Visualization don't stop once started
 - Requires _AUTOMATIC REFRESH_ after Quick Sort
 
-# PROJECT INFERENCE
+## PROJECT INFERENCE
 
 1. Learned the important functions of `JQuery` and it's implementation to make the Website more functional and dynamic
 2. Learned how to use the classes of `Bootstrap` to make the code responsive. The concept and the use of grid system became more crystal clear
@@ -50,8 +53,19 @@
 4. I rely on HTML Structure `div` and Jquery for the animations and it worked well without `CANVAS`
 5. Learned how to scrape the content inside the HTML Structure using Jquery inorder to get copied in the clipboard
 
-# FUTURE IMPLEMENTATION
+## FUTURE IMPLEMENTATION
 
 1. Merge the entire `.js` script into a single file
 2. Addding Merge and Heap Sort
 3. Keeping one screen for vizualization with multiple sorting options
+
+## 📃 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## 💖 Wish to drop a compliment?
+
+For any further queries, feel free to reach out:
+
+📧 Email: [anshuman.mondal@iitg.ac.in](mailto:anshuman.mondal@iitg.ac.in)  
+🔗 LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/anshuman-mondal-145314280)

@@ -59,7 +59,7 @@ A web-based project to **visualize popular sorting algorithms** like Bubble Sort
 4. I rely on HTML Structure `div` and Jquery for the animations and it worked well without `CANVAS`
 5. Learned how to scrape the content inside the HTML Structure using Jquery inorder to get copied in the clipboard -->
 
-## 🚀FUTURE IMPLEMENTATION AND IMPROVEMENTS TO BE DONE
+## 🚀Future Implementations and Improvements to be done
 
 1. Merging the entire `.js` script into a single file
 2. Adding Merge Sort, Heap Sort, Radix Sort, etc.

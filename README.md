@@ -3,7 +3,7 @@
 ## VISUALISE BASIC SORTING ALGORITHMS
 A web-based project to **visualize popular sorting algorithms** like Bubble Sort, Selection Sort, Insertion Sort, and Quick Sort using interactive bars. Built with **HTML, CSS, JavaScript, and jQuery** — ideal for learners to understand how sorting works step-by-step.
 
-`Link to the deployed site` : [Click Here](https://sortingalgoweb.vercel.app/)
+`Link to the deployed site` : [sortingalgoweb](https://sortingalgoweb.vercel.app/)
 
 ### Website Preview
 

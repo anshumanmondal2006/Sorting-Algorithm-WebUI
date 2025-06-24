@@ -2,7 +2,7 @@
 
 ## VISUALISE BASIC SORTING ALGORITHMS
 
-`WEBSITE LINKS` : [Click Here](https://github.io/ "Algorithm App")
+`WEBSITE LINKS` : [Click Here](https://sortingalgoweb.vercel.app/)
 
 ### Website Preview
 

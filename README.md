@@ -5,7 +5,7 @@ A web-based project to **visualize popular sorting algorithms** like Bubble Sort
 
 `Link to the deployed site` : [sortingalgoweb](https://sortingalgoweb.vercel.app/)
 
-### Website Preview
+### Sorting Preview
 
 ![App Preview Gif](images/Algorithm_App.gif)
 
